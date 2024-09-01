@@ -1036,3 +1036,11 @@ h3.marker {
 	.pc {display: block;}
 
 	}/*追加指定ここまで*/
+ h4 {
+        margin-bottom: 20px;
+        font-size: 130%;
+        padding: 0.4em;/*文字周りの余白*/
+        color: #B19DFC;/*文字色*/
+        background: #E9E3FC  ;/*背景色*/
+        border-left: solid 10px #B19DFC  ;/*左線（実線 太さ 色）*/
+      }
