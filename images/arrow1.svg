@@ -3,7 +3,7 @@
   <defs>
     <style>
       .cls-1 {
-        stroke: #89d7df;
+        stroke: #fff;
       }
 
       .cls-1, .cls-2 {
@@ -14,7 +14,7 @@
       }
 
       .cls-2 {
-        stroke: #fff;
+        stroke: #c2a384;
       }
     </style>
   </defs>
@@ -24,8 +24,8 @@
       <g id="_レイヤー_1-2" data-name="_レイヤー_1">
         <g id="_レイヤー_1-2">
           <g id="_レイヤー_1-2-2" data-name="_レイヤー_1-2">
-            <polyline class="cls-2" points="9.7 15 20.7 15 16.3 12"/>
-            <polyline class="cls-1" points="38.8 15 49.8 15 45.4 12"/>
+            <polyline class="cls-1" points="9.7 15 20.7 15 16.3 12"/>
+            <polyline class="cls-2" points="38.8 15 49.8 15 45.4 12"/>
           </g>
         </g>
       </g>
